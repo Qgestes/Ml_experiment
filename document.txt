@@ -1,0 +1,10 @@
+Jots is a dream for me, a tool I have always needed.
+Jots is an application at the crossing between note taking, journaling, time and task management. It is like the wikipedia of your life and projects with an assistant to help with organizing content and recalling what matters at the right moment.
+What's a Jot? a Jot is a sentence the computer can understand, can be a task, the title of a document, a fact about someone or something.
+It gives structures to the content, it links everything together into a big graph. Jots can be extracted from emails, discussions you have with people, hopefully one day from the verbal discussion you have with people around you. because you dont want to miss anything important.
+It is a tool centered around it's users, with an IA that is personal.
+To keep it short, i'll give some examples:
+Can you easily find that crazy picture of an insect we took after that meeting with Jeremy in Apple Park? Jots makes it easy by associating everything to a context. Our memory is very good with contextual information.
+Pasting a link to firebase.com? it proposes to add it to a list of tools you already made. It ask about what languages the SDK is in, as you mentionned that for other tools in the list.
+Last time you went to a general assembly meeting your feedback was that you should always cary a pen with you (even if you have jots). The app will remind you that every time you add a general assembly mee ting in you agenda. 
+This reminder and more generally important things to remember can be associated to anything especially events, contact, places and projects.

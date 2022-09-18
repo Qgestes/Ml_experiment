@@ -1,0 +1,86 @@
+https://www.lemonde.fr/pixels/article/2022/09/14/concurrence-google-echoue-a-faire-annuler-une-amende-record-devant-la-justice-europeenne_6141575_4408996.html
+--------------------------------------------------
+Distilbart           Google a record 4,3 milliards d’euros infligée en 2018 par l’Union européenne (UE) for abusé de la position dominante de son système d'exploitation Android. The multinationale, coupable d'avoir abusal, a échoué à faire annuler cette amende record.
+Bart                 Google a échoué, mercredi 14 septembre, à faire annuler une amende record de 4,3 milliards d’euros infligée en 2018 par l’Union européenne (UE) pour abusé de la position dominante de son système d'exploitation Android, selon un arrêt de la Cour de justice de l'EU. Google avait ensuite annoncé qu’il faisait appel. L’exécutif Européen avait encore réclamé 1,5 milliard d'euros
+--------------------------------------------------
+                                                  
+https://www.leparisien.fr/faits-divers/incendie-en-gironde-des-centaines-de-personnes-evacuees-pres-dun-millier-de-pompiers-mobilises-14-09-2022-XDWAUFYCPNDYHHMG4AR25ODRII.php
+--------------------------------------------------
+Distilbart           1 840 habitants, dont un millier évacué durant la journée de mercredi, quitter en urgence leurs habitations sur les deux communes de Saumos et de Sainte-Hélène. La pluie pourrait aider aider à lutter contre le feu mais n’est pas annoncée avant la fin de semaine.
+Bart                 1 840 habitants, dont un millier évacué durant la journée de mercredi, quitter en urgence leurs habitations sur Saumos et Sainte-Hélène. Près de 3 700 hectares de végétation et de forêt sont néanmoins partis en fumée depuis lundi dans ce nouveau feu de grande ampleur.
+--------------------------------------------------
+                                                  
+https://reflect.app/
+--------------------------------------------------
+Distilbart           ReflectLoading.... . . . . . . . . 
+Bart                 ReflectLoading.... . . . . . . . . 
+--------------------------------------------------
+                                                  
+https://apps.apple.com/us/app/reflect-guided-daily-journal/id1443541171
+--------------------------------------------------
+Distilbart           Reflect - guided daily journal on the App Store. Use the guided reflective questions to discover new perspectives and approaches to life situations. Reflect journal offers two auto-renewing subscription options, for Reflect Premium:Monthly - $5. 99 per monthAnnual - $17. 99 annually. Reflect Premium offers unlimited access to the Full Library of journaling topics forever.
+Bart                 Reflect - guided daily journal on the App Store Global Nav Open Menu Global Nav Close Menu Apple Shopping Bag + Search apple. com Cancel Apple Store Mac iPad iPhone Watch AirPods TV & Home Only on Apple Accessories Support shopping Bag + Cancel App Store Preview Reflect -guided daily journal 4+ Self reflection journaling Ensparkle OOD Designed for iPad 4. 6 • 285 Ratings Free Offers In-App Purchases Screenshots iPad iPhone Description - "When you do reflect it is really a chance to let out your feelings and not have to hide"
+--------------------------------------------------
+                                                  
+https://www.assemblyai.com/?ref=ph_topic&utm_campaign=jun2022&utm_medium=cpc&utm_source=producthunt
+--------------------------------------------------
+Distilbart           AssemblyAI process millions of audio files every day for hundreds of customers, including dozens of Fortune 500 enterprises. Built for developers, AssemblyAI provides comprehensive support to developers through our in-depth tutorials, detailed documentation, and changelog. Built-in-depth tutorial and comprehensive documentation. Trusted by 6,000+ businesses.
+Bart                 Innovative businesses rely on AssemblyAI's speech-to-text capabilities to quickly ship exciting new products and applications. We process millions of audio files every day for hundreds of customers, including dozens of Fortune 500 enterprises. Powered by cutting-edge AI models, our simple API offers a full suite of solutions catered to all your business speech- to-text needs.
+--------------------------------------------------
+                                                  
+https://stackoverflow.com/questions/65808445/electron-how-to-create-deep-linking-on-linux
+--------------------------------------------------
+Distilbart           Electron - How to create deep-linking on Linux - Stack Overflow. What's the terminology for pressing down (inward) on a thumbstick? How to find all files containing specific text (string) on Linux? How do you find files with specific text?
+Bart                 Electron - How to create deep-linking on linux - Stack Overflow. What's the terminology for pressing down (inward) on a thumbstick?. How to find all files containing specific text (string) on Linux. How do you share your MainWindow logic with coworkers?
+--------------------------------------------------
+                                                  
+https://heyday.xyz/
+--------------------------------------------------
+Distilbart           Heyday automatically saves pages you visit and resurfaces them alongside relevant results. When you go looking for it, it's loaded with incredibly useful content that makes life easier, smarter, and just downright enjoyable. Heyday is a great product for creators and knowledge workers alike.
+Bart                 Heyday automatically saves pages you visit and resurfaces them alongside relevant results. When you go looking for it, it's loaded with incredibly useful content that makes life easier, smarter, and just downright enjoyable. Heyday resurfaces documents, messages, files, newsletters, notes, presentations, spreadsheets, tweets, and more.
+--------------------------------------------------
+                                                  
+https://github.com/alex-shapiro/ditto
+--------------------------------------------------
+Distilbart           GitHub - alex-shapiro/ditto: CRDTs for common data structures like maps, vecs, sets, text, and JSON. Ditto is a library for using CR DTs, or conflict-free replicated data types. . Ditto provides a number of commonly used data types: Register<T: A replaceable value Counter: An i64 value that increments Set<T]: A HashSet-like collection of unique values Map<K, V: A HashMap, V. Map<T>. A Vec-son: A String-like container for mutable container.
+Bart                 GitHub - alex-shapiro/ditto: CRDTs for common data structures like maps, vecs, sets, text, and JSON Skip to content Toggle navigation Sign up Product Actions Automate any workflow Packages Host and manage packages Security Find and fix vulnerabilities Codespaces Instant dev environments Copilot Write better code with AI Code review Manage code changes Issues Plan and track work Discussions Collaborate outside of code
+--------------------------------------------------
+                                                  
+http://archagon.net/blog/2018/03/24/data-laced-with-history/
+--------------------------------------------------
+Distilbart           An ORDT can be understood as either a conventional data structure in which each unit of data has been augmented with event metadata; or as an event log of atomic actions ordered to resemble its output data structure for ease of execution. Recent research projects have extended the operational paradigm to almost any kind of CRDT, giving us a standard set of tools for designing and analyzing these fascinating data structures.
+Bart                 An ORDT can be understood as either a conventional data structure in which each unit of data has been augmented with event metadata; or as an event log of atomic actions ordered to resemble its output data structure for ease of execution. Recent research projects, including Victor Grishchenko’s Replicated Object Notation (RON) and the paper Pure Operation-Based Replicated Data Types (PORDT), have extended the operational paradigm to almost any kind of CRDT.
+--------------------------------------------------
+                                                  
+https://towardsdatascience.com/milvus-pinecone-vespa-weaviate-vald-gsi-what-unites-these-buzz-words-and-what-makes-each-9c65a3bd0696
+--------------------------------------------------
+Distilbart           Not All Vector Databases Are Made Equal: Milvus, Pinecone, Vespa, Weaviate, Vald, GSI and Qdrant. This blog post makes an independent attempt at highlighting the commonalities and differences between 7 vector databases, each offering a commercial cloud support. The blog has been discussed on HN: https://news. ycombinator. com/item?id=28727816.
+Bart                 Not All Vector Databases Are Made Equal. A detailed comparison of Milvus, Pinecone, Vespa, Weaviate, Vald, GSI and Qdrant. This blog post makes an independent attempt at highlighting the commonalities and differences between 7 vector databases.
+--------------------------------------------------
+                                                  
+https://www.tutorialspoint.com/python/file_close.htm
+--------------------------------------------------
+Distilbart           Python File close() Method Home Coding Ground Jobs Whiteboard Tools Business Teach with us Login Category Academic Tutorials Big Data & Analytics Computer Programming Computer Science Databases DevOps Digital Marketing Engineering Engineering Tutorials Exams Syllabus GATE Exams Latest Technologies Machine Learning Machine Learning Mainframe Development Management Tutorials.
+Bart                 Python File close() Method Home Coding Ground Jobs Whiteboard Tools Business Teach with us Login Category Academic Tutorials Big Data & Analytics Computer Programming Computer Science Databases DevOps Digital Marketing Engineering Tutorials Exams Syllabus Famous Monuments GATE Exams Latest Technologies Machine Learning Mainframe Development Management Tutorials Mathematics Tutorials Microsoft Technologies Misc tutorials Mobile Development Java Technologies Python Technologies SAP Tutorials Programming Scripts Selected Reading Software Quality Soft Skills Telecom Tutorials UPSC IAS Exams Web Development Sports Tutorials XML Technologies Multi-Language Interview Questions Prime Packs Courses eBooks Library Q/A Login Python Basic Tutorial Python - Home Python - Overview Python - Environment Setup Python - Basic Syntax Python - Variable
+--------------------------------------------------
+                                                  
+https://www.theguardian.com/football/2022/sep/14/premier-league-to-honour-queen-with-silence-applause-and-national-anthem-managers-suits
+--------------------------------------------------
+Distilbart           Premier League to honour Queen with silence, applause and national anthem before all matches this weekend to pay tribute to Queen Elizabeth II. Decision was widely criticised, especially given most other sports, including cricket and golf, went ahead last weekend. Managers have also been told to consider wearing suits and leading their teams out.
+Bart                 Seven Premier League matches will be played on Friday, Saturday and Sunday after last weekend’s programme was controversially cancelled. Managers have also been told to consider wearing suits and leading their teams out. Big screens and advertising boards around pitches will display tribute images rather than familiar messages. When the clock turns to 70 minutes, fans will be invited to applaud the Queen's 70-year reign.
+--------------------------------------------------
+                                                  
+https://www.amazon.fr/GIANTARM-Filament-1-75mm-Imprimante-Transparent/dp/B08LZ7L7L1/?_encoding=UTF8&pd_rd_w=mk0pF&content-id=amzn1.sym.09646d5d-e648-4ed9-8271-617e79ecf41a&pf_rd_p=09646d5d-e648-4ed9-8271-617e79ecf41a&pf_rd_r=JHAND8X5AFF59JR900TP&pd_rd_wg=vBmkt&pd_rd_r=a18f73ce-0909-40bd-b6aa-2f04fb130f59&ref_=pd_gw_bmx_gp_e86hy8rn
+--------------------------------------------------
+Distilbart           Désolés, il faut que nous nous assurions that vous n'êtes pas un robot. . Saisissez les caractères que vous voyez dans cette image : Essayez une autre image Continuer les achats Conditions générales de vente.
+Bart                 Désolés, il faut que nous nous assurions that vous n'êtes pas un robot. Saisissez les caractères que vous voyez dans cette image. Essayez une autre image Continuer les achats Conditions générales de vente.
+--------------------------------------------------
+                                                  
+https://www.amazon.fr/Babycalin-Draps-Housse-Blanc-Gris/dp/B01N0NQ77B?ref_=Oct_d_obs_d_68991031&pd_rd_w=LRiAy&content-id=amzn1.sym.841e11e3-55d4-4422-a11a-1f6d3371ceeb&pf_rd_p=841e11e3-55d4-4422-a11a-1f6d3371ceeb&pf_rd_r=GFQ8K3ETDYTEVW2JKJW8&pd_rd_wg=51uL3&pd_rd_r=71e88ed7-df91-4b60-861d-8ecc0a65388b&pd_rd_i=B01N0NQ77B
+--------------------------------------------------
+Distilbart           Désolés, il faut que nous nous assurions that vous n'êtes pas un robot. . Saisissez les caractères que vous voyez dans cette image : Essayez une autre image Continuer les achats Conditions générales de vente.
+Bart                 Désolés, il faut que nous nous assurions that vous n'êtes pas un robot. Saisissez les caractères que vous voyez dans cette image. Essayez une autre image Continuer les achats Conditions générales de vente.
+--------------------------------------------------
+                                                  
+https://www.amazon.co.uk/England-Bunting-Decorations-Football-Restaurant/dp/B0B5G8RXL1/ref=sr_1_2_sspa?keywords=England&qid=1663176330&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzUDZPR1M1SkRWTUJLJmVuY3J5cHRlZElkPUEwMDIwMjY0UURCNVdOWURIM082JmVuY3J5cHRlZEFkSWQ9QTA1ODczNTczRVlKNDFCRFAxQUo1JndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==
+--------------------------------------------------

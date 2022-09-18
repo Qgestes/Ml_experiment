@@ -1,0 +1,86 @@
+https://www.lemonde.fr/pixels/article/2022/09/14/concurrence-google-echoue-a-faire-annuler-une-amende-record-devant-la-justice-europeenne_6141575_4408996.html
+--------------------------------------------------
+Distilbart           Google a record 4,3 milliards d'euros infligée en 2018 par l’Union européenne (UE) for abusé de position dominante de son système d’exploitation Android. Google has annoncé qu’il faisait appel.
+Bart                 Google a annoncé, mercredi 14 septembre, à faire annuler une amende record de 4,3 milliards d’euros infligée en 2018 par l’Union européenne. L’exécutif Européen avait encore réclamé 1,5 milliard d'euros à Google pour des infractions.
+--------------------------------------------------
+                                                  
+https://www.leparisien.fr/faits-divers/incendie-en-gironde-des-centaines-de-personnes-evacuees-pres-dun-millier-de-pompiers-mobilises-14-09-2022-XDWAUFYCPNDYHHMG4AR25ODRII.php
+--------------------------------------------------
+Distilbart           Flammes ralenti leur progression dans la nuit de mardi à mercredi en Gironde, au nord-est du bassin d’Arcachon, entre Saumos et Sainte-Hélène. La pluie pourrait aider aider à lutter contre le feu mais elle n’est pas annoncée avant la fin de semaine.
+Bart                 1 840 habitants, dont un millier évacué durant la journée de mercredi, quitter en urgence leurs habitations. Les moyens aériens étaient également renforcés avec six Canadair.
+--------------------------------------------------
+                                                  
+https://reflect.app/
+--------------------------------------------------
+Distilbart           ReflectLoading.... . 
+Bart                 ReflectLoading.... . 
+--------------------------------------------------
+                                                  
+https://apps.apple.com/us/app/reflect-guided-daily-journal/id1443541171
+--------------------------------------------------
+Distilbart           Ensparkle OOD designed for iPad 4. 6 - 285 Ratings. Use the guided reflective questions to discover new perspectives and approaches to life situations. Subscription costs $5. 99 per month, $17. 99 annually or $79. 99 a lifetime. Reflect Premium offers two auto-renewing subscription options.
+Bart                 Reflect - guided daily journal on the App Store. Ensparkle OOD Designed for iPad 4. 6 • 285 Ratings Free Offers In-App Purchases Screenshots iPad iPhone Description - "When you do reflect it is really a chance to let out your feelings and not have to hide"
+--------------------------------------------------
+                                                  
+https://www.assemblyai.com/?ref=ph_topic&utm_campaign=jun2022&utm_medium=cpc&utm_source=producthunt
+--------------------------------------------------
+Distilbart           AssemblyAI processes millions of audio files every day for hundreds of customers, including dozens of Fortune 500 enterprises. Built for developers, we provide comprehensive support to developers through our in-depth tutorials, detailed documentation, and changelog. We process millions of. audio files each day for businesses from a wide range of industries. industries.
+Bart                 Innovative businesses from a wide range of industries rely on AssemblyAI's speech-to-text capabilities. We process millions of audio files every day for hundreds of customers, including dozens of Fortune 500 enterprises. All with one simple API built for developersPowered by deep learning.
+--------------------------------------------------
+                                                  
+https://stackoverflow.com/questions/65808445/electron-how-to-create-deep-linking-on-linux
+--------------------------------------------------
+Distilbart           Stack Overflow for Teams where developers & technologists share private knowledge with coworkers. Sign up or log in to customize your list. . Sign up for Teams. Start collaborating and sharing organizational knowledge. Use this to help developers and technologists worldwide. Use the weekly Newsquiz to test your knowledge of stories you saw on StackOverflow.
+Bart                 Stack Overflow for Teams – Start collaborating and sharing organizational knowledge. Sign up or log in to customize your list. . Learn more about Teams. Electron - How to create deep-linking on linux - Stack overflow Stack Overflows About Products For Teams Stack OverFlow Public questions & answers
+--------------------------------------------------
+                                                  
+https://heyday.xyz/
+--------------------------------------------------
+Distilbart           Heyday resurfaces documents, messages, files, newsletters, notes, presentations, spreadsheets, tweets, and more. Heyday has been a savior for me by surfacing the websites at the right time and right context. If I had one productivity tool to use for the rest of my days, I would be fine using Heyday.
+Bart                 Heyday resurfaces documents, messages, files, newsletters, notes, presentations, spreadsheets, tweets, and more. Heyday has been a savior for me by surfacing the websites at the right time and right context. If I had one productivity tool to use for the rest of my days, and you made me get rid of all my others, I would be fine using Heyday.
+--------------------------------------------------
+                                                  
+https://github.com/alex-shapiro/ditto
+--------------------------------------------------
+Distilbart           GitHub - alex-shapiro/ditto: CRDTs for common data structures like maps, vecs, sets, text, and JSON Skip to content Toggle navigation Sign up Product Actions Automate any workflow Packages Host and manage packages. Use Git or checkout with SVN using the web URL.
+Bart                 GitHub - alex-shapiro/ditto: CRDTs for common data structures like maps, vecs, sets, text, and JSON Skip to content Toggle navigation Sign up Product Actions Automate any workflow Packages Host and manage packages Security Find and fix vulnerabilities Codespaces Instant dev environments Copilot Write better code with AI Code review Manage code changes Issues Plan and track work Discussions Collaborate outside of code Explore All features Documentation GitHub Skills Changelog Solutions By Size Enterprise Teams Compare all By Solution CI/CD & Automation DevOps DevSecOps Case Studies Customer Stories Resources Open Source GitHub Sponsors Fund open source developers.
+--------------------------------------------------
+                                                  
+http://archagon.net/blog/2018/03/24/data-laced-with-history/
+--------------------------------------------------
+Distilbart           Version vectors (or their close relatives, vector clocks) give us very precise information about the order and causality of events in a distributed system. This crucial event–data duality means that an ORDT can be understood as either a conventional data structure in which each unit of data has been augmented with event metadata; or alternatively, as an event log of atomic actions ordered to resemble its output data structure for ease of execution.
+Bart                 An ORDT can be understood as either a conventional data structure in which each unit of data has been augmented with event metadata; or alternatively, as an event log of atomic actions ordered to resemble its output data structure for ease of execution. The CRDT was the basis for the code later used in xi.
+--------------------------------------------------
+                                                  
+https://towardsdatascience.com/milvus-pinecone-vespa-weaviate-vald-gsi-what-unites-these-buzz-words-and-what-makes-each-9c65a3bd0696
+--------------------------------------------------
+Distilbart           Weaviate is a managed and self-hosted vector search engine and database. Qdrant is an open source version of Weavate that allows for multiple algorithms to search for a vector similarity engine. The Qdant is the latest version of the open-source version of this article.
+Bart                 Pinecone is a fully managed vector database. Weaviate is a self-hosted vector search engine and database. Qdrant is a vector similarity engine with extended filtering support. Vector Podcast:https://www. youtube. com/watch?v=kVCIDTmiZyk.
+--------------------------------------------------
+                                                  
+https://www.tutorialspoint.com/python/file_close.htm
+--------------------------------------------------
+Distilbart           Python File close() Method Home Coding Ground Jobs Whiteboard Tools Business Teach with us Login Category Academic Tutorials Big Data & Analytics Computer Programming Computer Science Databases DevOps Digital Marketing Engineering Engineering Tutorials Exams Exams Syllabus Famous Monuments GATE Exams Latest Technologies Machine Learning Machine Learning Mainframe Development Management.
+Bart                 Python automatically closes a file when the reference object of a file is reassigned to another file. Python File close() Method Home Coding Ground Jobs Whiteboard Tools Business Teach with us Login Category Academic Tutorials Big Data & Analytics Computer Programming Computer Science Databases DevOps Digital Marketing Engineering Tutorials Exams Syllabus Famous Monuments GATE Exams Latest Technologies Machine Learning Mainframe Development Management Tutorials Mathematics Tutorials Microsoft Technologies Misc tutorials Mobile Development Java Technologies Python Technologies SAP Tutorials Programming Scripts Selected Reading Software Quality Soft Skills Telecom Tutorials UPSC IAS Exams Web Development Sports Tutorials XML Technologies Multi-Language Interview Questions Prime Packs Courses eBooks Library Q/A Login Python Basic
+--------------------------------------------------
+                                                  
+https://www.theguardian.com/football/2022/sep/14/premier-league-to-honour-queen-with-silence-applause-and-national-anthem-managers-suits
+--------------------------------------------------
+Distilbart           Premier League to honour Queen with silence, applause and national anthem. Decision was widely criticised, especially given most other sports, including cricket and golf, went ahead last weekend. Decision to hold minute’s silence before all Premier League matches will be made before all matches this weekend.
+Bart                 Premier League clubs will play the national anthem and hold a minute’s silence before all matches this weekend to pay tribute to Queen Elizabeth II. Decision was widely criticised, especially given most other sports, including cricket and golf, went ahead last weekend. Premier League to honour Queen with silence, applause and national anthem.
+--------------------------------------------------
+                                                  
+https://www.amazon.fr/GIANTARM-Filament-1-75mm-Imprimante-Transparent/dp/B08LZ7L7L1/?_encoding=UTF8&pd_rd_w=mk0pF&content-id=amzn1.sym.09646d5d-e648-4ed9-8271-617e79ecf41a&pf_rd_p=09646d5d-e648-4ed9-8271-617e79ecf41a&pf_rd_r=JHAND8X5AFF59JR900TP&pd_rd_wg=vBmkt&pd_rd_r=a18f73ce-0909-40bd-b6aa-2f04fb130f59&ref_=pd_gw_bmx_gp_e86hy8rn
+--------------------------------------------------
+Distilbart           Désolés, il faut que nous nous assurions that vous n'êtes pas un robot. . Saisissez les caractères que vous voyez dans cette image : Essayez une autre image Continuer les achats Conditions générales de vente.
+Bart                 Désolés, il faut que nous nous assurions that vous n'êtes pas un robot. Saisissez les caractères que vous voyez dans cette image. Essayez une autre image Continuer les achats Conditions générales de vente.
+--------------------------------------------------
+                                                  
+https://www.amazon.fr/Babycalin-Draps-Housse-Blanc-Gris/dp/B01N0NQ77B?ref_=Oct_d_obs_d_68991031&pd_rd_w=LRiAy&content-id=amzn1.sym.841e11e3-55d4-4422-a11a-1f6d3371ceeb&pf_rd_p=841e11e3-55d4-4422-a11a-1f6d3371ceeb&pf_rd_r=GFQ8K3ETDYTEVW2JKJW8&pd_rd_wg=51uL3&pd_rd_r=71e88ed7-df91-4b60-861d-8ecc0a65388b&pd_rd_i=B01N0NQ77B
+--------------------------------------------------
+Distilbart           Désolés, il faut que nous nous assurions that vous n'êtes pas un robot. . Saisissez les caractères que vous voyez dans cette image : Essayez une autre image Continuer les achats Conditions générales de vente.
+Bart                 Désolés, il faut que nous nous assurions that vous n'êtes pas un robot. Saisissez les caractères que vous voyez dans cette image. Essayez une autre image Continuer les achats Conditions générales de vente.
+--------------------------------------------------
+                                                  
+https://www.amazon.co.uk/England-Bunting-Decorations-Football-Restaurant/dp/B0B5G8RXL1/ref=sr_1_2_sspa?keywords=England&qid=1663176330&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzUDZPR1M1SkRWTUJLJmVuY3J5cHRlZElkPUEwMDIwMjY0UURCNVdOWURIM082JmVuY3J5cHRlZEFkSWQ9QTA1ODczNTczRVlKNDFCRFAxQUo1JndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==
+--------------------------------------------------
